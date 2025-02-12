@@ -1,6 +1,6 @@
 # 👾 rafael marqueti
 
-**`Desenvolvedora FullStack Cybersecurity `**
+**`Desenvolvedoror FullStack Cybersecurity `**
 <p align="left">
     </a> 
     <a href="https://github.com/rafaelmarqueti?tab=repositories">
