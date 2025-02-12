@@ -1,4 +1,4 @@
-# 👩🏻‍💻 rafael marqueti
+# 👾 rafael marqueti
 
 **`Desenvolvedora FullStack Cybersecurity `**
 <p align="left">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ☄️ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -138,3 +138,13 @@
 
 <br/>
 <br/>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rafaelmarqueti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
